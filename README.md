@@ -1,7 +1,7 @@
 # Chinese Postman Problem Solver
-This code finds the optimized route for the Chinese Postman Problem, where the objective is to traverse all links in a graph.
+This code finds a quantum-optimized solution to the Chinese Postman Problem—where the objective is to traverse all edges of a graph—using Qiskit.
 
-**Overview**
+## Overview:
 If the graph is Eulerian (i.e., all nodes have an even degree), finding the optimal closed loop is straightforward. However, if the graph is not Eulerian, additional steps are required to make it Eulerian.
 
 Algorithm Steps:
